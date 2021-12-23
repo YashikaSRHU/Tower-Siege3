@@ -4,6 +4,7 @@ const Bodies = Matter.Bodies;
 const Constraint = Matter.Constraint;
 
 //To Check Fetch and merge
+//to check how to pull from remote to local
 var ground, stand, stand2;
 var box;
 var polygonImage, polygon;
