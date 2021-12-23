@@ -3,7 +3,7 @@ const World= Matter.World;
 const Bodies = Matter.Bodies;
 const Constraint = Matter.Constraint;
 
-
+//To Check Fetch and merge
 var ground, stand, stand2;
 var box;
 var polygonImage, polygon;
